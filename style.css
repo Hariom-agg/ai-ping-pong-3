@@ -1,0 +1,50 @@
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.ins
+{
+    float: right;
+    border: 1px solid  white;
+}
+
+#start,#status
+{
+    font-size: 20px;
+}
+
+
+footer
+{
+background-color: grey;
+color: white;
+font-size: 15px;
+text-align: center;
+bottom: 0;
+width: 100%;
+line-height: 2;
+position: fixed;
+
+}
+
+canvas
+{
+    border:  7px solid black;
+    box-shadow: 5px 5px 3px 3px grey;
+}
+
+video{
+    background-image: url('game_console_edited.png');
+    background-size: cover;
+    background-position: center;
+    padding: 17px;
+}
+
